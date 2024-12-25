@@ -14,3 +14,8 @@ Model Building: Constructs a basic ANN with a few layers.
 Training and Evaluation: Compiles, trains, and evaluates the model.
 
 Visualization: Displays accuracy and loss trends during training.
+
+Contribution
+
+Contributions are welcome! If you have ideas to improve this project, feel free to submit a pull request or open an issue.
+
